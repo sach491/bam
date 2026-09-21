@@ -32,7 +32,7 @@ If you miss the lab and work on this after, you can use this URL though.
 
 # TASK 1: Your first branch
 
-- [ ] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
+- [x] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
@@ -98,9 +98,9 @@ on their own branch.
 
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
+- [x] Checkout the `alice` branch.
 
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [x] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `Git` or `IntelliJ` tells you in order to complete the merge process.
